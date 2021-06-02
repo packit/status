@@ -1,13 +1,13 @@
 ---
 title: Dashboard - unable to connect
-date: 2021-06-02 11:16:00 
+date: 2021-06-02 11:16:00
 resolved: true
 resolvedWhen: 2021-06-02 11:40:00
 # You can use: down, disrupted, notice
 severity: disrupted
 affected:
- - API
- - Dashboard
+  - API
+  - Dashboard
 section: issue
 ---
 
