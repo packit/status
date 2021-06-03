@@ -22,7 +22,7 @@ jobs:
           CNAME: status.packit.dev
           GITHUB_ACTOR: jpopelka
           HUGO_VERSION: 0.80.0
-          HUGO_EXTENDED: true
+          HUGO_EXTENDED: false
           TARGET_REPO: packit/status-github-pages
           TARGET_BRANCH: main
           TOKEN: ${{ secrets.TOKEN }}
