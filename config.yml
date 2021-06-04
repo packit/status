@@ -299,10 +299,9 @@ params:
   # Uncomment to enable.
   #
   # Format:
-  # customTabs:
-  #  -
-  #    name: Name
-  #    link: https://example.com
+  customTabs:
+    - name: UptimeRobot
+      link: https://stats.uptimerobot.com/7nArVImJnG
 
   # Disable complex server-side
   # calculations that may impact
