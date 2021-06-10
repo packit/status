@@ -302,6 +302,10 @@ params:
   customTabs:
     - name: UptimeRobot
       link: https://stats.uptimerobot.com/7nArVImJnG
+    - name: Packit docs
+      link: https://packit.dev
+    - name: Packit dashboard
+      link: https://dashboard.packit.dev
 
   # Disable complex server-side
   # calculations that may impact
