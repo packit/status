@@ -39,12 +39,15 @@ Individual keys in the file are explained in
 To see current date & time in a format ready to be put into the file run
 `date --utc --rfc-3339=seconds`.
 
-- New, not yet resolved issue
-  - `resolved: false`
+- New, not yet resolved issue or announcement about future maintenance
+  - set `resolved: false`
+  - leave `resolvedWhen:` unset
+  - set `date:`
+    - to the date/time when you first discovered the issue, or
+    - to the date/time of expected maintenance in case of announcement about future maintenance
 - Already resolved issue
-  - set `resolved: true` and `resolvedWhen: <date>`
-- Announcement about future maintenance
-  - remove/uncomment `resolved:` and set `date:` to the date/time of the expected maintenance
+  - set `resolved: true`
+  - set `resolvedWhen: <date>`
 
 ### Start Hugo server
 
