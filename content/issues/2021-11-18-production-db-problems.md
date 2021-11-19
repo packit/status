@@ -1,8 +1,8 @@
 ---
 title: Problems with production database
 date: 2021-11-18 02:33:00
-resolved: false
-resolvedWhen:
+resolved: true
+resolvedWhen: 2021-11-19 00:10:00
 # You can use: down, disrupted, notice
 severity: disrupted
 affected:
