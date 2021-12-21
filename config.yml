@@ -302,6 +302,8 @@ params:
   customTabs:
     - name: UptimeRobot
       link: https://stats.uptimerobot.com/7nArVImJnG
+    - name: Testing Farm Status
+      link: https://status.testing-farm.io
     - name: Packit docs
       link: https://packit.dev
     - name: Packit dashboard
