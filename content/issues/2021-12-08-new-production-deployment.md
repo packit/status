@@ -1,8 +1,8 @@
 ---
 title: New production deployment
 date: 2021-12-08 02:00:00
-resolved: false
-resolvedWhen:
+resolved: true
+resolvedWhen: 2022-01-01T00:00:00+00:00
 # You can use: down, disrupted, notice
 severity: notice
 affected:
