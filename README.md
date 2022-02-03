@@ -49,6 +49,8 @@ To see current date & time in a format ready to be put into the file run
   - set `resolved: true`
   - set `resolvedWhen: <date>`
 
+In `affected:` you can specify a list of affected [systems/components](https://github.com/packit/status/blob/main/config.yml#L157).
+
 ### Start Hugo server
 
 Run `hugo server` and go to [Web Server](http://localhost:1313)
