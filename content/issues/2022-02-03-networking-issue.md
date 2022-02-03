@@ -1,5 +1,5 @@
 ---
-title: "2022 02 03 Networking Issue"
+title: "Networking Issue"
 date: 2022-02-03T08:37:21+01:00
 resolved: true
 severity: disrupted
