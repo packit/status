@@ -1,7 +1,8 @@
 ---
 title: "SRPM builds done in Copr are failing"
 date: 2022-06-21T11:07:22+02:00
-affected: Workers
+affected:
+  - Workers
 resolved: false
 ---
 
