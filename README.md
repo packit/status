@@ -28,6 +28,13 @@ If you forget and realize later, just run:
 
 ## Add new content
 
+### TL;DR
+
+To create and edit a new issue, run `make issue TITLE="Something is broken"`,
+and follow the instructions to edit it.
+
+### In more detail
+
 Create a new file in [content/issues](content/issues) directory.
 The name of the file will be the slug (what shows up in the URL bar).
 
