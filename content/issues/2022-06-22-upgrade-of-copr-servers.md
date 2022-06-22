@@ -4,7 +4,7 @@ date: "2022-06-22T14:00+02:00"
 affected:
   - Copr
 resolved: true
-resolvedWhen: "2022-06-22T16:10+02:00"
+resolvedWhen: "2022-06-22T16:10:00+02:00"
 section: issue
 severity: disrupted
 ---
