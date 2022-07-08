@@ -1,8 +1,8 @@
 ---
 title: 'Summer is here ☀️'
 date: '2022-07-04T08:00:00+00:00'
-resolved: false
-# resolvedWhen: '2022-07-08T18:00:00+00:00'
+resolved: true
+resolvedWhen: '2022-07-08T18:00:00+00:00'
 section: issue
 severity: notice
 ---
