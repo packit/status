@@ -1,6 +1,6 @@
 ---
 title: "Upgrade of Copr Servers"
-date: "2022-06-22T14:00+02:00"
+date: "2022-06-22T14:00:00+02:00"
 affected:
   - Copr
 resolved: true
