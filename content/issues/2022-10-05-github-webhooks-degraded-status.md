@@ -10,4 +10,4 @@ severity: disrupted
 ---
 
 Packit is not working on Github because the Github Webhooks status is 'degraded'.
-See yourself: https://www.githubstatus.com
+See yourself: https://www.githubstatus.com/incidents/smn1qtqvbsb6
