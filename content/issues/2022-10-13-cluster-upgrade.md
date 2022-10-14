@@ -1,8 +1,8 @@
 ---
 title: "System upgrade scheduled"
 date: 2022-10-13T19:00:00+00:00
-resolved: false
-resolvedWhen: 
+resolved: true
+resolvedWhen: 2022-10-13T20:37:00+00:00
 section: issue
 severity: notice
 ---
