@@ -6,6 +6,7 @@ resolvedWhen: 2022-10-13T20:37:00+00:00
 section: issue
 severity: notice
 ---
+
 A system upgrade is scheduled to start on Wed Oct 13 19:00 UTC and last approximately 90 minutes.
 
 We do not expect any significant disruption.
