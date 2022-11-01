@@ -1,10 +1,10 @@
 ---
-title: 'Copr storage move'
-date: '2022-10-28T21:00+02:00'
+title: "Copr storage move"
+date: "2022-10-28T21:00:00+02:00"
 affected:
   - Copr
 resolved: true
-resolvedWhen: '2022-10-30T08:00+02:00'
+resolvedWhen: "2022-10-30T08:00:00+02:00"
 section: issue
 severity: disrupted
 ---
