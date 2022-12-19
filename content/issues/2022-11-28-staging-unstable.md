@@ -2,8 +2,8 @@
 title: "Staging is unstable"
 date: "2022-11-25T08:35:00+01:00"
 affected:
-resolved: false
-resolvedWhen:
+resolved: true
+resolvedWhen:  "2022-11-30T14:06:00+01:00"
 section: issue
 severity: disrupted
 ---
