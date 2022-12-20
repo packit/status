@@ -71,13 +71,11 @@ Run `hugo server` and go to [Web Server](http://localhost:1313)
 
 `git submodule foreach git pull origin master`
 
-## Rebuild content & Github Pages
+## Rebuild content & GitHub Pages
 
 It's done automatically with each push to main. We use
 [Hugo Deploy GitHub Pages Action](https://github.com/marketplace/actions/hugo-deploy-github-pages)
 configured in [.github/workflows/deploy-pages.yml](.github/workflows/deploy-pages.yml)
 which pushes the generated content into
 [packit/status-github-pages](https://github.com/packit/status-github-pages)
-from where the Github Pages are served.
-The secret used by the action is stored in
-[settings/secrets](https://github.com/packit/status/settings/secrets).
+from where the GitHub Pages are served.
