@@ -22,7 +22,7 @@ jobs:
           CNAME: status.packit.dev
           GITHUB_ACTOR: usercont-release-bot
           HUGO_VERSION: 0.98.0
-          HUGO_EXTENDED: false
+          HUGO_EXTENDED: true
           TARGET_REPO: packit/status-github-pages
           TARGET_BRANCH: main
           TOKEN: ${{ secrets.RELEASEBOT_GITHUB_TOKEN }}
