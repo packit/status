@@ -47,7 +47,7 @@ To see current date & time in a format ready to be put into the file run
 `date --utc --rfc-3339=seconds`.
 
 - New, not yet resolved issue or announcement about future maintenance
-  - set `resolved: false`
+  - set `resolved: false` for new unresolved issues or remove `resolved:` completely to make an announcement
   - leave `resolvedWhen:` unset
   - set `date:`
     - to the date/time when you first discovered the issue, or
