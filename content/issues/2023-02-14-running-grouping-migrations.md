@@ -8,7 +8,6 @@ affected:
   - Copr
   - Testing Farm
   - Koji
-resolved: false
 resolvedWhen:
 section: issue
 severity: down
