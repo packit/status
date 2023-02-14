@@ -8,7 +8,8 @@ affected:
   - Copr
   - Testing Farm
   - Koji
-resolvedWhen:
+resolvedWhen: '2023-02-14T04:00:00+01:00'
+resolved: true
 section: issue
 severity: down
 ---
