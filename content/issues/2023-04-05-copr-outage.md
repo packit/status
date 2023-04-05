@@ -3,6 +3,7 @@ title: "Upgrade of Copr servers"
 date: "2023-04-05T12:00:00+00:00"
 affected:
   - Copr
+resolved: true
 resolvedWhen: "2023-04-05T15:00:00+00:00"
 section: issue
 severity: disrupted
