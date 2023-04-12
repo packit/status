@@ -3,8 +3,8 @@ title: "Issue with pushing to dist-git"
 date: "2023-04-11T18:28:00+02:00"
 affected:
   - Workers
-resolved: false
-# resolvedWhen: '2023-04-12T13:28:00+02:00'
+resolved: true
+resolvedWhen: "2023-04-12T16:30:00+02:00"
 section: issue
 severity: disrupted
 ---
