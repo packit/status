@@ -1,6 +1,6 @@
 ---
-title: 'Running grouping migrations'
-date: '2023-02-14T02:00:00+01:00'
+title: "Running grouping migrations"
+date: "2023-02-14T02:00:00+01:00"
 affected:
   - API
   - Workers
@@ -8,7 +8,7 @@ affected:
   - Copr
   - Testing Farm
   - Koji
-resolvedWhen: '2023-02-14T04:00:00+01:00'
+resolvedWhen: "2023-02-14T04:00:00+01:00"
 resolved: true
 section: issue
 severity: down
@@ -24,4 +24,3 @@ take roughly 40 minutes, after which the service should come back up.
 Since significant refactoring was paired with these changes, there may
 be some bugs/regressions that we did not spot on staging. Please,
 contact us via the usual means if you spot anything suspicious.
-
