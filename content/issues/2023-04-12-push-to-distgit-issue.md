@@ -1,5 +1,5 @@
 ---
-title: "Issue with pushing to distgit"
+title: "Issue with pushing to dist-git"
 date: "2023-04-11T18:28:00+02:00"
 affected:
   - Workers
