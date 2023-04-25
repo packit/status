@@ -17,6 +17,7 @@ severity: notice | disrupted | down
 * TODO Edit the 'title' above.
 * TODO Edit the 'date' above. Set to the future when announcing an upcoming
   outage, set to the past if the outage has ongoing some time ago.
+* TODO Remove or comment 'resolved' when announcing an upcoming outage.
 * TODO Edit the list of affected components (remove the ones which are not
   affected)
 * TODO Chose the right 'severity'.
