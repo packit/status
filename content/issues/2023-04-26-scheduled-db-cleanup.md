@@ -4,8 +4,8 @@ date: "2023-04-26T04:40:00+00:00"
 affected:
   - API
   - Dashboard
-resolved: false
-resolvedWhen: "2023-04-26T05:40:00+00:00"
+resolved: true
+resolvedWhen: "2023-04-26T05:17:00+00:00"
 section: issue
 severity: disrupted
 ---
