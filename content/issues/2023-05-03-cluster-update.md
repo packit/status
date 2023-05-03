@@ -1,12 +1,12 @@
 ---
 title: "Cluster Update"
-date: "2023-05-03T11:00:00+02:00"
+date: "2023-05-03T10:00:00+02:00"
 affected:
   - API
   - Workers
   - Dashboard
-resolved: false
-resolvedWhen:
+resolved: true
+resolvedWhen: "2023-05-03T11:15:00+02:00"
 section: issue
 severity: disrupted
 ---
