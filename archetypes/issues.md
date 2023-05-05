@@ -8,6 +8,7 @@ affected:
   - Copr
   - Testing Farm
   - Koji
+  - Bodhi
 resolved: false
 resolvedWhen: "{{ now.Format "2006-01-02T15:04:00-07:00" }}"
 section: issue

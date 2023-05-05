@@ -173,6 +173,9 @@ params:
     - name: Koji
       description: koji.fedoraproject.org
       category: Others
+    - name: Bodhi
+      description: bodhi.fedoraproject.org
+      category: Others
 
   # What date format to use?
   #
