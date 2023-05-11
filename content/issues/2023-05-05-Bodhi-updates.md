@@ -3,8 +3,8 @@ title: "Bodhi Updates not created"
 date: "2023-05-04T11:30:00+02:00"
 affected:
   - Bodhi
-resolved: false
-resolvedWhen:
+resolved: true
+resolvedWhen: "2023-05-10T16:00:00+02:00"
 section: issue
 severity: disrupted
 ---
