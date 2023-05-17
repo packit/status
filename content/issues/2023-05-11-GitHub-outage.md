@@ -11,3 +11,5 @@ severity: disrupted
 
 There is an ongoing GitHub outage.
 You can monitor the status and subscribe for updates here: https://www.githubstatus.com
+
+EDIT: [GitHub's post mortem](https://github.blog/2023-05-16-addressing-githubs-recent-availability-issues)
