@@ -5,7 +5,8 @@ affected:
   - API
   - Workers
   - Dashboard
-resolved: false
+resolved: true
+resolvedWhen: "2023-06-08T10:00:00+01:00"
 section: issue
 severity: notice
 ---
