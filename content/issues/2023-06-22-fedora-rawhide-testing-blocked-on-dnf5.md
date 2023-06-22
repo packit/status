@@ -11,7 +11,7 @@ severity: disrupted
 dnf has been upgraded to dnf5 in Rawhide, resulting in various issues
 when running tests in Testing Farm.
 
-The Testing Farm team is working on fixing the issues
+The Testing Farm team together with dnf5 team is working on fixing the issues
 and trying to resolve the situation ASAP.
 
 If you want to help, here are upstream issues related to this problem:
