@@ -8,11 +8,11 @@ section: issue
 severity: disrupted
 ---
 
-The dnf5 came to rawhide resulting in various of issues
-when running test in Testing Farm on Rawhide.
+dnf has been upgraded to dnf5 in Rawhide, resulting in various issues
+when running tests in Testing Farm.
 
-The Testing Farm team is fixing the issues
-and trying to resolve the issues soon.
+The Testing Farm team is working on fixing the issues
+and trying to resolve the situation ASAP.
 
 If you want to help, here are the issues in for DNF5 itself:
 
