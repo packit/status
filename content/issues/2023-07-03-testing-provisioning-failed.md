@@ -3,7 +3,8 @@ title: "Guest couldn't be provisioned: Artemis resource ended in 'error' state"
 date: "2023-07-03T08:00:00+02:00"
 affected:
   - Testing Farm
-resolved: false
+resolved: true
+resolvedWhen: "2023-07-03T10:00:00+00:00"
 section: issue
 severity: notice
 ---

@@ -3,7 +3,8 @@ title: "Fedora Rawhide Testing Blocked on dnf5"
 date: "2023-06-22T09:30:00+02:00"
 affected:
   - Testing Farm
-resolved: false
+resolved: true
+resolvedWhen: "2023-07-18T20:30:00+02:00"
 section: issue
 severity: disrupted
 ---
