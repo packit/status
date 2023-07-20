@@ -3,8 +3,8 @@ title: "Testing Farm testing blocked"
 date: "2023-07-19T08:00:00+00:00"
 affected:
   - Testing Farm
-resolved: false
-resolvedWhen: "2023-07-19T11:05:00+02:00"
+resolved: true
+resolvedWhen: "2023-07-19T11:00:00+00:00"
 section: issue
 severity: disrupted
 ---
