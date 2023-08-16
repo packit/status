@@ -3,7 +3,7 @@ title: "Copr Upgrade"
 date: "2023-08-16T14:30:00+02:00"
 affected:
   - Copr
-resolved: false
+resolved: true
 resolvedWhen: "2023-08-16T16:30:00+02:00"
 section: issue
 severity: down
