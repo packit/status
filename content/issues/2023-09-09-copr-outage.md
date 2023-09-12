@@ -3,8 +3,8 @@ title: "COPR build failures"
 date: "2023-09-09T12:00:00+00:00"
 affected:
   - Copr
-resolved: false
-# resolvedWhen: "2023-04-05T15:00:00+00:00"
+resolved: true
+resolvedWhen: "2023-09-11T15:00:00+00:00"
 section: issue
 severity: disrupted
 ---
