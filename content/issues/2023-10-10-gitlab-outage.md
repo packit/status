@@ -4,8 +4,8 @@ date: "2023-10-10T04:00:00+02:00"
 affected:
   - Copr
   - Testing Farm
-resolved: false
-# resolvedWhen: "2023-10-02T10:00:00+00:00"
+resolved: true
+resolvedWhen: "2023-10-11T14:00:00+02:00"
 section: issue
 severity: disrupted
 ---
