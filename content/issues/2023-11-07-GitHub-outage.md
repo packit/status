@@ -3,8 +3,8 @@ title: "GitHub outage"
 date: "2023-11-07T14:45:00+01:00"
 affected:
   - GitHub
-resolved: false
-resolvedWhen: "2023-11-07T15:00:00+01:00"
+resolved: true
+resolvedWhen: "2023-11-07T15:30:00+01:00"
 section: issue
 severity: disrupted
 ---
