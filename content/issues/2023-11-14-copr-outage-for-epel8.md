@@ -1,8 +1,8 @@
 ---
 title: "COPR builds failing for epel8"
 date: 2023-11-14T10:00:00+01:00
-resolved: false
-#resolvedWhen: 2023-11-14T17:15:00+01:00
+resolved: true
+resolvedWhen: 2023-11-14T17:15:00+01:00
 section: issue
 severity: disrupted
 ---
