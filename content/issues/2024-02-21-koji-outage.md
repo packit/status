@@ -3,8 +3,8 @@ title: "Koji Outage"
 date: "2024-02-21T21:00:00+00:00"
 affected:
   - Koji builds
-resolved: false
-#resolvedWhen: "2024-02-22T00:00:00+00:00"
+resolved: true
+resolvedWhen: "2024-02-22T00:00:00+00:00"
 section: issue
 severity: notice
 ---
