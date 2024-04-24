@@ -3,8 +3,8 @@ title: "Many Copr builds pending"
 date: 2024-04-23T14:00:00+01:00
 affected:
   - Copr
-resolved: False
-#resolvedWhen: 2024-04-23T16:00:00+01:00
+resolved: True
+resolvedWhen: 2024-04-23T21:00:00+01:00
 section: issue
 severity: notice
 ---
