@@ -5,8 +5,8 @@ affected:
   - Pull from upstream
   - Downstream Koji builds
   - Bodhi updates
-resolved: false
-# resolvedWhen: "2024-05-16T14:30:00+02:00"
+resolved: true
+resolvedWhen: "2024-05-27T18:35:00+02:00"
 section: issue
 severity: disrupted
 ---
@@ -23,3 +23,6 @@ Fedora integration is disrupted:
 Please trigger the respective jobs manually, if you are affected, once the outage has been resolved.
 
 We are very sorry for the inconvenience!
+
+_Edit #1_: Issue has been resolved for both production and staging deployments
+by rolling back to the previous image builds.
