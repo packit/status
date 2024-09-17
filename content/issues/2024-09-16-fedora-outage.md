@@ -3,8 +3,8 @@ title: "Fedora infrastructure outage"
 date: "2024-09-15T08:00:00+00:00"
 affected:
   - Copr
-resolved: false
-# resolvedWhen: "2024-09-18T08:00:00+00:00"
+resolved: true
+resolvedWhen: "2024-09-16T17:30:00+00:00"
 section: issue
 severity: disrupted
 ---
