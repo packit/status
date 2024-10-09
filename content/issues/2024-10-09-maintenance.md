@@ -9,8 +9,8 @@ affected:
   - Testing Farm
   - Koji
   - Bodhi
-resolved: false
-# resolvedWhen: "2024-10-10T20:30:00+02:00"
+resolved: true
+resolvedWhen: "2024-10-10T20:10:00+02:00"
 section: issue
 severity: notice
 ---
