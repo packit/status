@@ -3,8 +3,8 @@ title: "OpenScanHub outage"
 date: "2024-11-01T08:00:00+01:00"
 affected:
   - OpenScanHub
-resolved: false
-# resolvedWhen: "2024-10-01T11:30:00+02:00"
+resolved: True
+resolvedWhen: "2024-11-04T21:00:00+01:00"
 section: issue
 severity: disrupted
 ---
