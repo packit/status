@@ -177,10 +177,16 @@ params:
     - name: Testing Farm
       description: api.dev.testing-farm.io - If it's down, we can't run tests.
       category: External Upstream Systems
+    - name: Image Builder
+      description: console.redhat.com/insights/image-builder
+      category: External Upstream Systems
     - name: OpenScanHub
       description: openscanhub.fedoraproject.org
       category: External Upstream Systems
 
+    - name: Anitya (Release Monitoring)
+      description: release-monitoring.org
+      category: External Downstream Systems
     - name: Koji
       description: koji.fedoraproject.org
       category: External Downstream Systems
