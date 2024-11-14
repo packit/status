@@ -144,8 +144,14 @@ params:
   categories:
     - name: Core
       description: Systems we have complete control over
-    - name: Others
-      description: Systems we use, but have no direct control over
+    - name: External Upstream Systems
+      description: >
+        Systems that are utilized mainly on upstream, but we have no direct
+        control over
+    - name: External Downstream Systems
+      description: >
+        Systems that are utilized mainly on downstream, but we have no direct
+        control over
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -164,18 +170,29 @@ params:
     - name: Dashboard
       description: dashboard.packit.dev
       category: Core
+
     - name: Copr
       description: copr.fedorainfracloud.org - If it's down, we can't build your packages.
-      category: Others
+      category: External Upstream Systems
     - name: Testing Farm
       description: api.dev.testing-farm.io - If it's down, we can't run tests.
-      category: Others
+      category: External Upstream Systems
+    - name: Image Builder
+      description: console.redhat.com/insights/image-builder
+      category: External Upstream Systems
+    - name: OpenScanHub
+      description: openscanhub.fedoraproject.org
+      category: External Upstream Systems
+
+    - name: Anitya (Release Monitoring)
+      description: release-monitoring.org
+      category: External Downstream Systems
     - name: Koji
       description: koji.fedoraproject.org
-      category: Others
+      category: External Downstream Systems
     - name: Bodhi
       description: bodhi.fedoraproject.org
-      category: Others
+      category: External Downstream Systems
 
   # What date format to use?
   #
