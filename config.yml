@@ -176,6 +176,9 @@ params:
     - name: Bodhi
       description: bodhi.fedoraproject.org
       category: Others
+    - name: OpenScanHub
+      description: openscanhub.fedoraproject.org
+      category: Others
 
   # What date format to use?
   #
