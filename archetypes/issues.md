@@ -5,13 +5,16 @@ affected:
   - API
   - Workers
   - Dashboard
+
   - Copr
   - Testing Farm
+  - Image Builder
+  - OpenScanHub
+
+  - Anitya (Release Monitoring)
   - Koji
   - Bodhi
-  - OpenScanHub
-  - Image Builder
-  - Anitya (Release Monitoring)
+
 resolved: false
 resolvedWhen: "{{ now.Format "2006-01-02T15:04:00-07:00" }}"
 section: issue
