@@ -9,4 +9,5 @@ section: issue
 severity: disrupted
 ---
 
-There is a Copr outage and as a result Copr builds can be stuck in a pending state.
+There is a [Copr outage](https://pagure.io/fedora-infrastructure/issue/12316)
+and as a result Copr builds can be stuck in a pending state.
