@@ -1,6 +1,6 @@
 ---
 title: "Maintenance outage"
-date: "2025-02-03T16:15:00+01:00"
+date: "2025-02-03T15:15:00+01:00"
 affected:
   - API
   - Workers
@@ -10,7 +10,7 @@ affected:
   - Koji
   - Bodhi
 # resolved: true
-# resolvedWhen: "2025-02-03T16:30:00+01:00"
+# resolvedWhen: "2025-02-03T15:30:00+01:00"
 section: issue
 severity: notice
 ---
