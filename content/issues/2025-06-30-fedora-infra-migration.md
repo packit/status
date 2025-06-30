@@ -2,7 +2,7 @@
 title: "Fedora Infra - Datacenter Move outage"
 date: 2025-06-30T01:00:00+00:00
 affected:
-  - Anitya
+  - Anitya (Release Monitoring)
   - Koji
   - Bodhi
 resolved: false
