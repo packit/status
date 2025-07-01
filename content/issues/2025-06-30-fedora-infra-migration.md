@@ -5,6 +5,9 @@ affected:
   - Anitya (Release Monitoring)
   - Koji
   - Bodhi
+  - OpenScanHub
+
+  - Copr
 resolved: false
 # resolvedWhen: 2025-07-02T01:00:00+00:00
 section: issue
@@ -17,6 +20,8 @@ during this migration majority of the contributor-facing services will be down.
 Therefore it is expected that `sync-release` (i.e., `propose-downstream` and
 `pull-from-upstream`), `koji_build`, and `bodhi_update` Packit workflows will be
 affected.
+
+Copr build jobs may be disrupted, full outage is not expected.
 
 For more details watch:
 
