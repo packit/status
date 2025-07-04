@@ -11,7 +11,7 @@ affected:
 resolved: false
 # resolvedWhen: 2025-07-02T01:00:00+00:00
 section: issue
-severity: down
+severity: disrupted
 ---
 
 Fedora Infrastructure is currently ongoing migration to different datacenter,
@@ -28,4 +28,8 @@ For more details watch:
 - [Fedora Infrastructure Status](https://fedorastatus.org)
 - [Tracking issue for the datacenter move](https://pagure.io/fedora-infrastructure/issue/12603)
 
-After the outage is finished, please retrigger Packit workflows manually.
+### Update - 4th July
+Most services in Fedora Infrastructure should be up and running again.
+Packit has resumed processing `copr_build` jobs, but there are still delays due to jobs being queued during the outage in previous days.
+We are continuing to investigate issues related to pushing and pulling from dist-git, which are currently impacting downstream jobs. 
+We’ll share further updates as soon as we have more information.
