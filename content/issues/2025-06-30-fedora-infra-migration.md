@@ -8,8 +8,8 @@ affected:
   - OpenScanHub
 
   - Copr
-resolved: false
-# resolvedWhen: 2025-07-02T01:00:00+00:00
+resolved: true
+resolvedWhen: 2025-07-04T21:00:00+00:00
 section: issue
 severity: disrupted
 ---
