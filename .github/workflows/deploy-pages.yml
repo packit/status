@@ -18,7 +18,7 @@ jobs:
           submodules: true
 
       - name: Hugo Deploy GitHub Pages
-        uses: benmatselby/hugo-deploy-gh-pages@v2.1.0
+        uses: benmatselby/hugo-deploy-gh-pages@v2.4.0
         env:
           CNAME: status.packit.dev
           GITHUB_ACTOR: usercont-release-bot
