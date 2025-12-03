@@ -4,8 +4,8 @@ date: 2025-11-20T01:00:00+00:00
 affected:
   - Downstream Jobs
 
-resolved: false
-#resolvedWhen: 2025-07-04T21:00:00+00:00
+resolved: true
+resolvedWhen: 2025-12-02T18:00:00+00:00
 section: issue
 severity: notice
 ---
