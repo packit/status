@@ -18,10 +18,7 @@ jobs:
           submodules: true
 
       - name: Hugo Deploy GitHub Pages
-        # [TODO] Switch back to the official action once the #66 has been merged
-        # and released
-        uses: mfocko/hugo-deploy-gh-pages@31154be6dc01b324913f349225c57a5c03bffd8e
-        # uses: benmatselby/hugo-deploy-gh-pages@v2.4.0
+        uses: benmatselby/hugo-deploy-gh-pages@v2.5.0
         env:
           CNAME: status.packit.dev
           GITHUB_ACTOR: usercont-release-bot
