@@ -3,8 +3,8 @@ title: "Copr outage - stuck hypervisor"
 date: 2026-01-13T02:00:00+01:00
 affected:
   - Copr
-resolved: false
-#resolvedWhen: 2026-01-13T09:30:00+01:00
+resolved: true
+resolvedWhen: 2026-01-13T09:30:00+01:00
 section: issue
 severity: notice
 ---
