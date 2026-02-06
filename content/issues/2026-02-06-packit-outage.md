@@ -3,7 +3,7 @@ title: "Packit outage"
 date: 2026-02-05T18:00:00+01:00
 affected:
   - all services
-resolved: true
+resolved: false
 resolvedWhen: 2026-02-06T12:00:00+01:00
 section: issue
 severity: notice
