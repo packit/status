@@ -1,7 +1,8 @@
 ---
 title: "DB Cleanup"
 date: "2026-02-14T12:00:00+00:00"
-resolved: false
+resolved: true
+resolvedWhen: "2026-02-15T13:00:00+00:00"
 section: issue
 severity: notice
 ---
