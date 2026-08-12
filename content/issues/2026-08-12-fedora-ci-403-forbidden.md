@@ -1,9 +1,10 @@
 ---
 title: "No pull-request statuses from Packit Fedora CI"
-date: "2026-08-12T16:30:00+02:00"
+date: "2026-08-12T00:00:00+02:00"
 affected:
   - Fedora CI
 resolved: true
+resolvedWhen: "2026-08-12T16:30:00+02:00"
 section: issue
 severity: disrupted
 ---
